@@ -1,4 +1,5 @@
 from MyLogger import MyLogger
+import TaskManager as tm
 
 # Global attributes?
 global_mode = "DEV"  # DEV ou PROD
@@ -15,4 +16,7 @@ if __name__ == "__main__":
     logger.info("Démarrage de l'application")
     logger.info(f"Fichier log : {log_name}")
     logger.info(f'main.global_mode : {global_mode}')
+
+    tm = tm.TaskManager()
+    tm.run()
 
