@@ -7,13 +7,15 @@ logger = MyLogger(filename='myLog.log')
 
 class Scraper_DK:
 
+    #attributes
+    url = ""
+    json = ""
+    offers_list = []
+
     # constructor
     def __init__(self):
         # initializing instance variable
         r = 6
-        pass
-
-    def getHTMLfromURL(self):
         pass
 
     # Voir mon script Java et découper en plusieurs tâches (Chunks)
@@ -21,6 +23,16 @@ class Scraper_DK:
     #https: // stackoverflow.com / questions / 55553768 / parsing - out - specific - values -
     #from-json - object - in -beautifulsoup
 
+    def getHTML(url):
+        pass
+
+    def getJSON(html):
+        pass
+
+
+   # wrapper les autres fonctions (privées) dans get_offers_list?
+    def get_offers_list(json):
+        pass
 
     @staticmethod
     def printMe(self):
