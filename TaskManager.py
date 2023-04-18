@@ -63,7 +63,11 @@ class TaskManager:
         # Étape 3 parser le HTML pour générer une liste d'Event
 
         #scraper = Scraper_DK()
-        Scraper_DK.printMe("")
+        #Scraper_DK.printMe("")
+        scraper = Scraper_DK()
+        scraper.printMe("")
+        scraper.getJSON(content)
+
 
 
 

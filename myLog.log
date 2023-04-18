@@ -7520,3 +7520,176 @@
 2023-04-18 13:36:05,763 ;    INFO ; main.py       ; Fichier log : myLog.log
 2023-04-18 13:36:05,763 ;    INFO ; main.py       ; main.global_mode : DEV
 2023-04-18 13:36:05,763 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:53:58,026 ;    INFO ; main.py       ; 
+2023-04-18 15:53:58,026 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:53:58,026 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:53:58,026 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:53:58,027 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:56:05,141 ;    INFO ; main.py       ; 
+2023-04-18 15:56:05,141 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:56:05,141 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:56:05,141 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:56:05,141 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:56:37,447 ;    INFO ; main.py       ; 
+2023-04-18 15:56:37,447 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:56:37,447 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:56:37,447 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:56:37,447 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:57:05,128 ;    INFO ; main.py       ; 
+2023-04-18 15:57:05,128 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:57:05,128 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:57:05,128 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:57:05,129 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:57:12,699 ;    INFO ; main.py       ; 
+2023-04-18 15:57:12,699 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:57:12,699 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:57:12,699 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:57:12,699 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:57:54,364 ;    INFO ; main.py       ; 
+2023-04-18 15:57:54,365 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:57:54,365 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:57:54,365 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:57:54,365 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:58:10,589 ;    INFO ; main.py       ; 
+2023-04-18 15:58:10,589 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:58:10,589 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:58:10,589 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:58:10,590 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:58:38,825 ;    INFO ; main.py       ; 
+2023-04-18 15:58:38,825 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:58:38,825 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:58:38,825 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:58:38,825 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:58:38,825 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html)
+2023-04-18 15:59:54,559 ;    INFO ; main.py       ; 
+2023-04-18 15:59:54,559 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 15:59:54,560 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 15:59:54,560 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 15:59:54,560 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 15:59:54,560 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html)
+2023-04-18 16:03:36,523 ;    INFO ; main.py       ; 
+2023-04-18 16:03:36,523 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 16:03:36,523 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 16:03:36,523 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 16:03:36,523 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 16:03:36,523 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html)
+2023-04-18 16:06:40,563 ;    INFO ; main.py       ; 
+2023-04-18 16:06:40,563 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 16:06:40,563 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 16:06:40,563 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 16:06:40,563 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 16:06:40,563 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html)
+2023-04-18 16:07:09,824 ;    INFO ; main.py       ; 
+2023-04-18 16:07:09,825 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 16:07:09,825 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 16:07:09,825 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 16:07:09,825 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 16:07:09,825 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html)
+2023-04-18 16:07:44,698 ;    INFO ; main.py       ; 
+2023-04-18 16:07:44,699 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 16:07:44,699 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 16:07:44,699 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 16:07:44,699 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 16:07:44,699 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 16:10:02,689 ;    INFO ; main.py       ; 
+2023-04-18 16:10:02,689 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 16:10:02,689 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 16:10:02,689 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 16:10:02,689 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 16:10:02,689 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 16:10:59,156 ;    INFO ; main.py       ; 
+2023-04-18 16:10:59,156 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 16:10:59,156 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 16:10:59,156 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 16:10:59,156 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 16:10:59,156 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:37:25,702 ;    INFO ; main.py       ; 
+2023-04-18 17:37:25,702 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:37:25,702 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:37:25,702 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:37:26,073 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:37:26,073 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:38:19,979 ;    INFO ; main.py       ; 
+2023-04-18 17:38:19,980 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:38:19,980 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:38:19,980 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:38:19,980 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:38:19,980 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:40:19,369 ;    INFO ; main.py       ; 
+2023-04-18 17:40:19,369 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:40:19,369 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:40:19,369 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:40:19,369 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:40:19,369 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:40:56,187 ;    INFO ; main.py       ; 
+2023-04-18 17:40:56,187 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:40:56,187 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:40:56,187 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:40:56,187 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:40:56,187 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:41:56,554 ;    INFO ; main.py       ; 
+2023-04-18 17:41:56,554 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:41:56,554 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:41:56,554 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:41:56,554 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:41:56,554 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:43:24,285 ;    INFO ; main.py       ; 
+2023-04-18 17:43:24,286 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:43:24,286 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:43:24,286 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:43:24,286 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:43:24,286 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:44:13,770 ;    INFO ; main.py       ; 
+2023-04-18 17:44:13,770 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:44:13,770 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:44:13,771 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:44:13,771 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:44:13,771 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:44:26,215 ;    INFO ; main.py       ; 
+2023-04-18 17:44:26,215 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:44:26,215 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:44:26,215 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:44:26,215 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:44:26,215 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:44:53,729 ;    INFO ; main.py       ; 
+2023-04-18 17:44:53,729 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:44:53,730 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:44:53,730 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:44:53,730 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:44:53,730 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:45:00,983 ;    INFO ; main.py       ; 
+2023-04-18 17:45:00,983 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:45:00,983 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:45:00,983 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:45:00,984 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:45:00,984 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:45:54,472 ;    INFO ; main.py       ; 
+2023-04-18 17:45:54,473 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:45:54,473 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:45:54,473 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:45:54,473 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:45:54,473 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:56:02,533 ;    INFO ; main.py       ; 
+2023-04-18 17:56:02,533 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:56:02,534 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:56:02,534 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:56:02,534 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:56:02,534 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:57:29,388 ;    INFO ; main.py       ; 
+2023-04-18 17:57:29,388 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:57:29,388 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:57:29,388 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:57:29,388 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:57:29,388 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 17:58:15,351 ;    INFO ; main.py       ; 
+2023-04-18 17:58:15,352 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 17:58:15,352 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 17:58:15,352 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 17:58:15,352 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 17:58:15,352 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
+2023-04-18 18:00:03,536 ;    INFO ; main.py       ; 
+2023-04-18 18:00:03,536 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-18 18:00:03,536 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-18 18:00:03,536 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-18 18:00:03,536 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-18 18:00:03,537 ;    INFO ; Scraper_DK.py ; Exécution de getJSON(html_content)
