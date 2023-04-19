@@ -65,8 +65,10 @@ class TaskManager:
         #scraper = Scraper_DK()
         #Scraper_DK.printMe("")
         scraper = Scraper_DK()
-        scraper.printMe("")
-        scraper.getJSON(content)
+        text = scraper.get_text(content)
+        json = scraper.get_json(text)
+        offers_list = scraper.get_offers_list(json)  # devrai ensuite ajouter les start dates avec 3 méthodes (complexe...)
+
 
 
 

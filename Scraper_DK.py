@@ -1,7 +1,5 @@
-import logging
-
 import bs4
-import bs4 as bs
+import json
 #import Event as Ev
 from MyLogger import MyLogger
 
@@ -26,12 +24,24 @@ class Scraper_DK:
     #https: // stackoverflow.com / questions / 55553768 / parsing - out - specific - values -
     #from-json - object - in -beautifulsoup
 
-    def getHTML(self,url):
+    def get_html(self,url):
         pass
 
+    # input should be text correctly formatted in json
+    # output : json object
+    def get_json(self, text):
+        logger.info("Exécution de get_json(text)")
+        try:
+            json_obj = json.loads(text)
+        except:
+            logger.error("Error converting text to json")
+            return {}
+        return json_obj
+
+
     # Méthode spécifique à la structure du code html de DK
-    def getJSON(self,html_content):
-        logger.info("Exécution de getJSON(html_content)")
+    def get_text(self,html_content):
+        logger.info("Exécution de get_text(html_content)")
         soup = bs4.BeautifulSoup(html_content,'html.parser')
         script_elements = soup.find_all("script")
 
@@ -47,23 +57,37 @@ class Scraper_DK:
         #subString = script_str.
         #String subString = scriptString.substring(scriptString.lastIndexOf("window.__INITIAL_STATE__"));
 
-        index = script_str.rindex("window.__INITIAL_STATE__")
-        subString = script_str[index:]
+        index = script_str.index("window.__INITIAL_STATE__")
+        substring = script_str[index:]
+
+        # trimmer le début
+        index = substring.index("\"offers\":{")
+        substring = "{" + substring[index:]
+
+        # Trimmer la fin
+        index = substring.index("}}},\"settings\"")
+        substring = substring[:index+3]
+        substring = substring + "}"
 
         #f = open("out2.txt", "w", encoding="utf-8")
-        #f.write(subString)
+        #f.write(substring)
         #f.close()
 
-        # TODO : trimmer le début
-
-        pass
-
+        return substring
 
    # wrapper les autres fonctions (privées) dans get_offers_list?
-    def get_offers_list(json):
+    def get_offers_list(self, DK_json):
+        offers_dict = DK_json['offers']['9034']
+        print(offers_dict)
+        # Dans mon fichier test, il ya un seul event, eventID = 9034
+        # for loop rudimentaire, pourrait être remplacé par une fonction récursive ou générique
+        print(offers_dict.keys())
+        #provider_offer_ids = DK_json.loads("providerOfferId")
+        #provider_offer_ids = offers_json[str(9034)]
+        #print(provider_offer_ids)
+
+        # TODO : rendu ici les keys = currentOfferID de mon code java
+
         pass
 
-    @staticmethod
-    def printMe(self):
-        print("print me")
 
