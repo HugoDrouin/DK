@@ -78,15 +78,20 @@ class Scraper_DK:
    # wrapper les autres fonctions (privées) dans get_offers_list?
     def get_offers_list(self, DK_json):
         offers_dict = DK_json['offers']['9034']
-        print(offers_dict)
         # Dans mon fichier test, il ya un seul event, eventID = 9034
         # for loop rudimentaire, pourrait être remplacé par une fonction récursive ou générique
-        print(offers_dict.keys())
-        #provider_offer_ids = DK_json.loads("providerOfferId")
-        #provider_offer_ids = offers_json[str(9034)]
-        #print(provider_offer_ids)
 
-        # TODO : rendu ici les keys = currentOfferID de mon code java
+        #Dk a des variables maisons : providerOfferID, offerID, etc. Je ne les banque pas pour l'insant
+        for offer in offers_dict:
+            #outcome1
+            label1 = offers_dict[offer]['outcomes'][0]['label']
+            oddsDecimal1 = offers_dict[offer]['outcomes'][0]['oddsDecimal']
+            #outcome2
+            label2 = offers_dict[offer]['outcomes'][1]['label']
+            oddsDecimal2 = offers_dict[offer]['outcomes'][1]['oddsDecimal']
+
+            event_name = f'{label1} vs {label2}'
+            print(f'{event_name} {oddsDecimal1} {oddsDecimal2}')
 
         pass
 
