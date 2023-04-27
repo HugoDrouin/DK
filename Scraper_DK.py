@@ -2,8 +2,8 @@ import bs4
 import json
 #import Event as Ev
 from MyLogger import MyLogger
+import Offer
 
-import urllib.request
 logger = MyLogger(filename='myLog.log')
 
 class Scraper_DK:
@@ -82,17 +82,20 @@ class Scraper_DK:
         # for loop rudimentaire, pourrait être remplacé par une fonction récursive ou générique
 
         #Dk a des variables maisons : providerOfferID, offerID, etc. Je ne les banque pas pour l'insant
+        offers_list = []
         for offer in offers_dict:
             #outcome1
-            label1 = offers_dict[offer]['outcomes'][0]['label']
-            oddsDecimal1 = offers_dict[offer]['outcomes'][0]['oddsDecimal']
+            outcome1 = offers_dict[offer]['outcomes'][0]['label']
+            decimal_odds1 = offers_dict[offer]['outcomes'][0]['oddsDecimal']
             #outcome2
-            label2 = offers_dict[offer]['outcomes'][1]['label']
-            oddsDecimal2 = offers_dict[offer]['outcomes'][1]['oddsDecimal']
+            outcome2 = offers_dict[offer]['outcomes'][1]['label']
+            decimal_odds2 = offers_dict[offer]['outcomes'][1]['oddsDecimal']
 
-            event_name = f'{label1} vs {label2}'
-            print(f'{event_name} {oddsDecimal1} {oddsDecimal2}')
+            event_name = f'{outcome1} vs {outcome2}'  #TODO : éventuellement inclure le startDate
 
-        pass
+            current_offer = Offer.Offer(event_name, outcome1, outcome2, decimal_odds1, decimal_odds2)
+            offers_list.append(current_offer)
+        logger.info(f'{len(offers_list)} offres trouvées sur Draft Kings/MMA/UFC')
+        return offers_list
 
 

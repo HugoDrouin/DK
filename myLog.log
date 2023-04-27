@@ -8119,3 +8119,596 @@
 2023-04-21 10:42:01,524 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
 2023-04-21 10:42:01,524 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
 2023-04-21 10:42:01,763 ;    INFO ; Scraper_DK.py ; Exécution de get_json(text)
+2023-04-21 11:16:08,405 ;    INFO ; main.py       ; 
+2023-04-21 11:16:08,405 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-21 11:16:08,405 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-21 11:16:08,405 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-21 11:16:08,405 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-21 11:16:08,405 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-21 11:16:08,647 ;    INFO ; Scraper_DK.py ; Exécution de get_json(text)
+2023-04-21 11:16:08,648 ;    INFO ; Scraper_DK.py ; 40 trouvés sur Draft kings
+2023-04-21 11:16:42,240 ;    INFO ; main.py       ; 
+2023-04-21 11:16:42,240 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-21 11:16:42,240 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-21 11:16:42,240 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-21 11:16:42,240 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-21 11:16:42,240 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-21 11:16:42,488 ;    INFO ; Scraper_DK.py ; Exécution de get_json(text)
+2023-04-21 11:16:42,489 ;    INFO ; Scraper_DK.py ; 40 offres trouvées sur Draft Kings/MMA
+2023-04-21 11:17:04,329 ;    INFO ; main.py       ; 
+2023-04-21 11:17:04,329 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-21 11:17:04,329 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-21 11:17:04,329 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-21 11:17:04,329 ;    INFO ; TaskManager.py ; Ouverture du fichier local --DK_test_html.txt-- : réussie
+2023-04-21 11:17:04,329 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-21 11:17:04,569 ;    INFO ; Scraper_DK.py ; Exécution de get_json(text)
+2023-04-21 11:17:04,570 ;    INFO ; Scraper_DK.py ; 40 offres trouvées sur Draft Kings/MMA
+2023-04-21 11:19:37,453 ;    INFO ; main.py       ; 
+2023-04-21 11:19:37,454 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-21 11:19:37,454 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-21 11:19:37,454 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-21 11:19:37,454 ;    INFO ; TaskManager.py ; PROD
+2023-04-21 11:19:38,160 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-21 11:24:13,798 ;    INFO ; main.py       ; 
+2023-04-21 11:24:13,798 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-21 11:24:13,798 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-21 11:24:13,798 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-21 11:24:13,798 ;    INFO ; TaskManager.py ; PROD
+2023-04-21 11:24:15,445 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-21 11:24:15,637 ;    INFO ; Scraper_DK.py ; Exécution de get_json(text)
+2023-04-21 11:24:15,637 ;    INFO ; Scraper_DK.py ; 39 offres trouvées sur Draft Kings/MMA
+2023-04-25 23:47:22,472 ;    INFO ; main.py       ; 
+2023-04-25 23:47:22,472 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-25 23:47:22,473 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-25 23:47:22,473 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-25 23:47:22,473 ;    INFO ; TaskManager.py ; PROD
+2023-04-25 23:47:22,593 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-25 23:51:01,109 ;    INFO ; main.py       ; 
+2023-04-25 23:51:01,109 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-25 23:51:01,110 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-25 23:51:01,110 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-25 23:51:01,110 ;    INFO ; TaskManager.py ; PROD
+2023-04-25 23:51:49,823 ;    INFO ; main.py       ; 
+2023-04-25 23:51:49,823 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-25 23:51:49,823 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-25 23:51:49,823 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-25 23:51:49,823 ;    INFO ; TaskManager.py ; PROD
+2023-04-25 23:53:24,369 ;    INFO ; main.py       ; 
+2023-04-25 23:53:24,369 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-25 23:53:24,369 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-25 23:53:24,369 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-25 23:53:24,369 ;    INFO ; TaskManager.py ; PROD
+2023-04-25 23:53:25,239 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-25 23:55:28,928 ;    INFO ; main.py       ; 
+2023-04-25 23:55:28,928 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-25 23:55:28,928 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-25 23:55:28,928 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-25 23:55:28,929 ;    INFO ; TaskManager.py ; PROD
+2023-04-25 23:55:29,195 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-25 23:57:02,580 ;    INFO ; main.py       ; 
+2023-04-25 23:57:02,581 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-25 23:57:02,581 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-25 23:57:02,581 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-25 23:57:02,581 ;    INFO ; TaskManager.py ; PROD
+2023-04-26 00:01:29,188 ;    INFO ; main.py       ; 
+2023-04-26 00:01:29,188 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-26 00:01:29,188 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-26 00:01:29,188 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-26 00:01:29,188 ;    INFO ; TaskManager.py ; PROD
+2023-04-26 00:01:29,508 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-26 00:04:00,394 ;    INFO ; main.py       ; 
+2023-04-26 00:04:00,394 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-26 00:04:00,394 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-26 00:04:00,395 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-26 00:04:00,395 ;    INFO ; TaskManager.py ; PROD
+2023-04-26 00:05:42,535 ;    INFO ; main.py       ; 
+2023-04-26 00:05:42,536 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-26 00:05:42,536 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-26 00:05:42,536 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-26 00:05:42,536 ;    INFO ; TaskManager.py ; PROD
+2023-04-26 00:06:59,409 ;    INFO ; main.py       ; 
+2023-04-26 00:06:59,409 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-26 00:06:59,409 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-26 00:06:59,409 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-26 00:06:59,409 ;    INFO ; TaskManager.py ; PROD
+2023-04-26 00:06:59,751 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-26 00:11:35,485 ;    INFO ; main.py       ; 
+2023-04-26 00:11:35,486 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-26 00:11:35,486 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-26 00:11:35,486 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-26 00:11:35,486 ;    INFO ; TaskManager.py ; PROD
+2023-04-26 00:11:51,203 ;    INFO ; main.py       ; 
+2023-04-26 00:11:51,203 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-26 00:11:51,203 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-26 00:11:51,203 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-26 00:11:51,204 ;    INFO ; TaskManager.py ; PROD
+2023-04-26 00:11:51,613 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-26 00:17:29,369 ;    INFO ; main.py       ; 
+2023-04-26 00:17:29,369 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-26 00:17:29,369 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-26 00:17:29,370 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-26 00:17:29,370 ;    INFO ; TaskManager.py ; PROD
+2023-04-26 00:17:29,769 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-27 08:40:41,125 ;    INFO ; main.py       ; 
+2023-04-27 08:40:41,126 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:40:41,126 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:40:41,126 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:40:41,126 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:42:52,048 ;    INFO ; main.py       ; 
+2023-04-27 08:42:52,048 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:42:52,048 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:42:52,049 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:42:52,049 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:43:52,395 ;    INFO ; main.py       ; 
+2023-04-27 08:43:52,395 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:43:52,395 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:43:52,395 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:43:52,395 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:43:58,901 ;    INFO ; main.py       ; 
+2023-04-27 08:43:58,901 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:43:58,901 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:43:58,902 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:43:58,902 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:48:19,466 ;    INFO ; main.py       ; 
+2023-04-27 08:48:19,467 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:48:19,467 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:48:19,467 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:48:19,467 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:48:31,766 ;    INFO ; main.py       ; 
+2023-04-27 08:48:31,766 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:48:31,766 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:48:31,766 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:48:31,766 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:51:10,863 ;    INFO ; main.py       ; 
+2023-04-27 08:51:10,863 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:51:10,863 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:51:10,863 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:51:10,863 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:51:20,443 ;    INFO ; main.py       ; 
+2023-04-27 08:51:20,443 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:51:20,443 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:51:20,444 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:51:20,444 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:51:55,688 ;    INFO ; main.py       ; 
+2023-04-27 08:51:55,688 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:51:55,688 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:51:55,689 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:51:55,689 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 08:52:08,461 ;    INFO ; main.py       ; 
+2023-04-27 08:52:08,461 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 08:52:08,461 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 08:52:08,461 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 08:52:08,461 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 09:46:16,040 ;    INFO ; main.py       ; 
+2023-04-27 09:46:16,040 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 09:46:16,040 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 09:46:16,040 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 09:46:16,040 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 10:18:20,250 ;    INFO ; main.py       ; 
+2023-04-27 10:18:20,250 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 10:18:20,250 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 10:18:20,250 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 10:18:20,250 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 10:30:17,812 ;    INFO ; main.py       ; 
+2023-04-27 10:30:17,812 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 10:30:17,812 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 10:30:17,812 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 10:30:17,812 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 10:30:18,064 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-27 10:47:24,520 ;    INFO ; main.py       ; 
+2023-04-27 10:47:24,520 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 10:47:24,520 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 10:47:24,520 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 10:47:24,520 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 10:47:24,703 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-27 10:51:07,456 ;    INFO ; main.py       ; 
+2023-04-27 10:51:07,457 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 10:51:07,457 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 10:51:07,457 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 10:51:07,457 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 10:51:07,699 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-27 10:51:38,245 ;    INFO ; main.py       ; 
+2023-04-27 10:51:38,245 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 10:51:38,245 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 10:51:38,245 ;    INFO ; main.py       ; main.global_mode : PROD
+2023-04-27 10:51:38,246 ;    INFO ; TaskManager.py ; PROD
+2023-04-27 10:51:38,422 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-27 10:52:41,353 ;    INFO ; main.py       ; 
+2023-04-27 10:52:41,353 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 10:52:41,353 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 10:52:41,353 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 10:52:41,354 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 10:52:41,354 ;    INFO ; Scraper_DK.py ; Exécution de get_text(html_content)
+2023-04-27 11:00:51,657 ;    INFO ; main.py       ; 
+2023-04-27 11:00:51,657 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:00:51,657 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:00:51,657 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:00:51,658 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:01:37,947 ;    INFO ; main.py       ; 
+2023-04-27 11:01:37,947 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:01:37,947 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:01:37,947 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:01:37,947 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:03:39,417 ;    INFO ; main.py       ; 
+2023-04-27 11:03:39,418 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:03:39,418 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:03:39,418 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:03:39,418 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:03:59,463 ;    INFO ; main.py       ; 
+2023-04-27 11:03:59,463 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:03:59,463 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:03:59,463 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:03:59,463 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:04:19,269 ;    INFO ; main.py       ; 
+2023-04-27 11:04:19,269 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:04:19,269 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:04:19,269 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:04:19,270 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:04:45,698 ;    INFO ; main.py       ; 
+2023-04-27 11:04:45,698 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:04:45,699 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:04:45,699 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:04:45,699 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:06:43,388 ;    INFO ; main.py       ; 
+2023-04-27 11:06:43,388 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:06:43,388 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:06:43,388 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:06:43,389 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:08:07,899 ;    INFO ; main.py       ; 
+2023-04-27 11:08:07,901 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:08:07,901 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:08:07,901 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:08:07,901 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:08:33,367 ;    INFO ; main.py       ; 
+2023-04-27 11:08:33,367 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:08:33,367 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:08:33,368 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:08:33,369 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:16:13,181 ;    INFO ; main.py       ; 
+2023-04-27 11:16:13,181 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:16:13,181 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:16:13,181 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:16:13,181 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:22:24,101 ;    INFO ; main.py       ; 
+2023-04-27 11:22:24,101 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:22:24,101 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:22:24,101 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:22:24,101 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:24:22,293 ;    INFO ; main.py       ; 
+2023-04-27 11:24:22,293 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:24:22,293 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:24:22,293 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:24:22,294 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:24:42,272 ;    INFO ; main.py       ; 
+2023-04-27 11:24:42,272 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:24:42,272 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:24:42,273 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:24:42,273 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:25:22,327 ;    INFO ; main.py       ; 
+2023-04-27 11:25:22,327 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:25:22,327 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:25:22,327 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:25:22,327 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:25:46,698 ;    INFO ; main.py       ; 
+2023-04-27 11:25:46,698 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:25:46,699 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:25:46,699 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:25:46,699 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:25:59,378 ;    INFO ; main.py       ; 
+2023-04-27 11:25:59,378 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:25:59,378 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:25:59,378 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:25:59,378 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:26:13,203 ;    INFO ; main.py       ; 
+2023-04-27 11:26:13,204 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:26:13,204 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:26:13,204 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:26:13,204 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:27:03,572 ;    INFO ; main.py       ; 
+2023-04-27 11:27:03,572 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:27:03,572 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:27:03,572 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:27:03,573 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:29:04,451 ;    INFO ; main.py       ; 
+2023-04-27 11:29:04,451 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:29:04,451 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:29:04,451 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:29:04,451 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:29:21,874 ;    INFO ; main.py       ; 
+2023-04-27 11:29:21,875 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:29:21,875 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:29:21,875 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:29:21,875 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:29:26,780 ;    INFO ; main.py       ; 
+2023-04-27 11:29:26,780 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:29:26,780 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:29:26,780 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:29:26,780 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:29:51,070 ;    INFO ; main.py       ; 
+2023-04-27 11:29:51,071 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:29:51,071 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:29:51,071 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:29:51,071 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:30:05,157 ;    INFO ; main.py       ; 
+2023-04-27 11:30:05,157 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:30:05,157 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:30:05,157 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:30:05,157 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:36:04,570 ;    INFO ; main.py       ; 
+2023-04-27 11:36:04,571 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:36:04,571 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:36:04,571 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:36:04,571 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:36:14,688 ;    INFO ; main.py       ; 
+2023-04-27 11:36:14,688 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:36:14,688 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:36:14,688 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:36:14,688 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:36:18,850 ;    INFO ; main.py       ; 
+2023-04-27 11:36:18,851 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:36:18,851 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:36:18,851 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:36:18,851 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:36:18,855 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 11:37:11,423 ;    INFO ; main.py       ; 
+2023-04-27 11:37:11,423 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:37:11,423 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:37:11,423 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:37:11,423 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:37:30,802 ;    INFO ; main.py       ; 
+2023-04-27 11:37:30,802 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:37:30,802 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:37:30,802 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:37:30,802 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:37:30,815 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 11:37:54,944 ;    INFO ; main.py       ; 
+2023-04-27 11:37:54,945 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:37:54,945 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:37:54,945 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:37:54,945 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:37:54,950 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 11:41:40,938 ;    INFO ; main.py       ; 
+2023-04-27 11:41:40,938 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:41:40,938 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:41:40,938 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:41:40,939 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:42:15,279 ;    INFO ; main.py       ; 
+2023-04-27 11:42:15,279 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:42:15,279 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:42:15,279 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:42:15,279 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:42:31,404 ;    INFO ; main.py       ; 
+2023-04-27 11:42:31,404 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:42:31,404 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:42:31,404 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:42:31,404 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:43:23,342 ;    INFO ; main.py       ; 
+2023-04-27 11:43:23,342 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:43:23,342 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:43:23,342 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:43:23,343 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:45:59,995 ;    INFO ; main.py       ; 
+2023-04-27 11:45:59,995 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:45:59,995 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:45:59,995 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:45:59,996 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:47:37,029 ;    INFO ; main.py       ; 
+2023-04-27 11:47:37,030 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:47:37,030 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:47:37,030 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:47:37,030 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:48:02,427 ;    INFO ; main.py       ; 
+2023-04-27 11:48:02,427 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:48:02,427 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:48:02,427 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:48:02,427 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:51:29,194 ;    INFO ; main.py       ; 
+2023-04-27 11:51:29,194 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:51:29,194 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:51:29,194 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:51:29,195 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:52:01,605 ;    INFO ; main.py       ; 
+2023-04-27 11:52:01,605 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:52:01,605 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:52:01,605 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:52:01,605 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:52:16,465 ;    INFO ; main.py       ; 
+2023-04-27 11:52:16,465 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:52:16,465 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:52:16,465 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:52:16,465 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:52:23,506 ;    INFO ; main.py       ; 
+2023-04-27 11:52:23,506 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:52:23,506 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:52:23,506 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:52:23,506 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:53:26,539 ;    INFO ; main.py       ; 
+2023-04-27 11:53:26,539 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:53:26,539 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:53:26,539 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:53:26,539 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:54:04,361 ;    INFO ; main.py       ; 
+2023-04-27 11:54:04,361 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:54:04,361 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:54:04,361 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:54:04,361 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:55:07,812 ;    INFO ; main.py       ; 
+2023-04-27 11:55:07,812 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:55:07,812 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:55:07,812 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:55:07,813 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:55:22,772 ;    INFO ; main.py       ; 
+2023-04-27 11:55:22,772 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:55:22,772 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:55:22,772 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:55:22,772 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:55:28,685 ;    INFO ; main.py       ; 
+2023-04-27 11:55:28,685 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:55:28,686 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:55:28,686 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:55:28,686 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:55:32,507 ;    INFO ; main.py       ; 
+2023-04-27 11:55:32,507 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:55:32,507 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:55:32,508 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:55:32,508 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:55:58,283 ;    INFO ; main.py       ; 
+2023-04-27 11:55:58,283 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:55:58,283 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:55:58,283 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:55:58,283 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:56:30,352 ;    INFO ; main.py       ; 
+2023-04-27 11:56:30,352 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:56:30,352 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:56:30,352 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:56:30,353 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:56:50,641 ;    INFO ; main.py       ; 
+2023-04-27 11:56:50,641 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:56:50,641 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:56:50,641 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:56:50,641 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:57:12,604 ;    INFO ; main.py       ; 
+2023-04-27 11:57:12,604 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:57:12,604 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:57:12,604 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:57:12,604 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 11:57:35,856 ;    INFO ; main.py       ; 
+2023-04-27 11:57:35,856 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 11:57:35,856 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 11:57:35,856 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 11:57:35,856 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:01:41,051 ;    INFO ; main.py       ; 
+2023-04-27 12:01:41,052 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:01:41,052 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:01:41,052 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:01:41,052 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:01:47,410 ;    INFO ; main.py       ; 
+2023-04-27 12:01:47,411 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:01:47,411 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:01:47,411 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:01:47,411 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:01:47,413 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:06:51,046 ;    INFO ; main.py       ; 
+2023-04-27 12:06:51,046 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:06:51,046 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:06:51,046 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:06:51,046 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:06:51,058 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:07:51,906 ;    INFO ; main.py       ; 
+2023-04-27 12:07:51,906 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:07:51,907 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:07:51,907 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:07:51,907 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:07:51,910 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:08:43,567 ;    INFO ; main.py       ; 
+2023-04-27 12:08:43,567 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:08:43,567 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:08:43,567 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:08:43,568 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:08:43,578 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:09:02,614 ;    INFO ; main.py       ; 
+2023-04-27 12:09:02,615 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:09:02,616 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:09:02,616 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:09:02,616 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:09:02,624 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:09:51,373 ;    INFO ; main.py       ; 
+2023-04-27 12:09:51,374 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:09:51,374 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:09:51,374 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:09:51,374 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:09:51,382 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:10:22,782 ;    INFO ; main.py       ; 
+2023-04-27 12:10:22,782 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:10:22,782 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:10:22,782 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:10:22,782 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:10:22,788 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:11:29,147 ;    INFO ; main.py       ; 
+2023-04-27 12:11:29,147 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:11:29,148 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:11:29,148 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:11:29,148 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:11:29,154 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:11:39,741 ;    INFO ; main.py       ; 
+2023-04-27 12:11:39,741 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:11:39,741 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:11:39,742 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:11:39,742 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:11:39,745 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:12:01,202 ;    INFO ; main.py       ; 
+2023-04-27 12:12:01,202 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:12:01,202 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:12:01,202 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:12:01,203 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:12:01,209 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:13:13,475 ;    INFO ; main.py       ; 
+2023-04-27 12:13:13,475 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:13:13,476 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:13:13,476 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:13:13,476 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:13:13,482 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:13:40,568 ;    INFO ; main.py       ; 
+2023-04-27 12:13:40,569 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:13:40,569 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:13:40,569 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:13:40,569 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:13:40,581 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:14:24,331 ;    INFO ; main.py       ; 
+2023-04-27 12:14:24,332 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:14:24,332 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:14:24,332 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:14:24,332 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:14:24,339 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:15:08,136 ;    INFO ; main.py       ; 
+2023-04-27 12:15:08,136 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:15:08,136 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:15:08,137 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:15:08,137 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:15:08,144 ;    INFO ; Scraper_b99.py ; 0 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:16:45,960 ;    INFO ; main.py       ; 
+2023-04-27 12:16:45,960 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:16:45,960 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:16:45,961 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:16:45,961 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:16:45,966 ;    INFO ; Scraper_b99.py ; 24 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:17:47,791 ;    INFO ; main.py       ; 
+2023-04-27 12:17:47,791 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:17:47,792 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:17:47,792 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:17:47,792 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:17:47,798 ;    INFO ; Scraper_b99.py ; 24 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:20:09,794 ;    INFO ; main.py       ; 
+2023-04-27 12:20:09,794 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:20:09,795 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:20:09,795 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:20:09,795 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:21:45,037 ;    INFO ; main.py       ; 
+2023-04-27 12:21:45,038 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:21:45,038 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:21:45,038 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:21:45,038 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:23:11,828 ;    INFO ; main.py       ; 
+2023-04-27 12:23:11,829 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:23:11,829 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:23:11,829 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:23:11,829 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:23:11,836 ;    INFO ; Scraper_b99.py ; 24 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:24:00,828 ;    INFO ; main.py       ; 
+2023-04-27 12:24:00,828 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:24:00,828 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:24:00,828 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:24:00,829 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:24:00,840 ;    INFO ; Scraper_b99.py ; 24 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:24:26,275 ;    INFO ; main.py       ; 
+2023-04-27 12:24:26,275 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:24:26,275 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:24:26,275 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:24:26,275 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:24:26,281 ;    INFO ; Scraper_b99.py ; 24 offres trouvées sur bet99/MMA/UFC
+2023-04-27 12:25:00,838 ;    INFO ; main.py       ; 
+2023-04-27 12:25:00,838 ;    INFO ; main.py       ; Démarrage de l'application
+2023-04-27 12:25:00,838 ;    INFO ; main.py       ; Fichier log : myLog.log
+2023-04-27 12:25:00,838 ;    INFO ; main.py       ; main.global_mode : DEV
+2023-04-27 12:25:00,839 ;    INFO ; TaskManager.py ; Ouverture du fichier local --bet99_json.txt-- : réussie
+2023-04-27 12:25:00,839 ;    INFO ; Scraper_b99.py ; 24 offres trouvées sur bet99/MMA/UFC
